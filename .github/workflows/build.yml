@@ -1,0 +1,7 @@
+cd DLSReal
+git init
+git add .
+git commit -m "primeira versão"
+git branch -M main
+git remote add origin https://github.com/SEU_USUARIO/DLSReal.git
+git push -u origin main
